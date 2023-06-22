@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+T:\MinhChung_Tuan3\Code_Tuan3\.metadata\.plugins\org.eclipse.jdt.core
+1491460504.index
+3246291155.index
+3469067062.index
+1865797976.index
+1415494687.index
+1011562593.index
+1003264660.index

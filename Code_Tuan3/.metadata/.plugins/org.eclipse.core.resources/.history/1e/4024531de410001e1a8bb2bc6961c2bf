@@ -1,0 +1,10 @@
+import java.sql.Connection;
+
+import redis.clients.jedis.Jedis;
+
+public class TestRedis {
+    public static void main(String[] args) {
+        Jedis jedis = new Jedis("redis://default:ul8uOszyLfU7S3z5dCBAyNQYWqb7Cwsq@redis-14645.c9.us-east-1-2.ec2.cloud.redislabs.com:14645");
+        redis.clients.jedis.Connection connection = jedis.getConnection();
+    }
+}
